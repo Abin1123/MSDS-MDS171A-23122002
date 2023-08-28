@@ -1,5 +1,5 @@
-**MY NAME IS Abin Roy**<br>
-
-**Son of Roy Kutty** <br>
-
-***Aspiring Data Scientist*** <br>
+***
+## Index
+|sl.no|date|file name|topic|
+|:----:|:----:|:---:|:----:|
+|1.|23-08-23|lab01|write a program to enter name and push it to github|
